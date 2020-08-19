@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src=".github/mob.gif" alt="Chat tela mobile" />
+  <img src=".github/celular.gif" alt="Chat tela mobile" />
 </p>
 
 ## :memo: Projeto
