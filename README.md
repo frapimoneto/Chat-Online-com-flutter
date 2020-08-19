@@ -1,16 +1,32 @@
-# chat
+<h1 align="center">
+  Chat
+</h1>
 
-A new Flutter application.
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/frapimoneto/Chat-Online-com-flutter" />
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/frapimoneto/Chat-Online-com-flutter" />
+</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src=".github/mob.gif" alt="Chat tela mobile" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## :memo: Projeto
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Essa aplicação consiste em um chat desenvolvido em Flutter e feito com base no curso de Flutter do professor Daniel Ciolfi, utilizando o Firebase para armazenamento dos dados e autenticação com o Google. No chat é possível compartilhar texto e imagens. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## :rocket: Tecnologias
+
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+
+## :gear: Rodando o projeto
+``` bash
+  $git clone https://github.com/frapimoneto/Chat-Online-com-flutter
+  $cd Chat-Online-com-flutter
+  $flutter pub get
+  $start na aplicação
+```
+
+Feito com ❤ por Francisco Pinto Moreira Neto 😃 [Get in touch!](https://github.com/frapimoneto)
